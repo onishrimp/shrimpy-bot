@@ -1,4 +1,4 @@
-# Discord God - Gotcha System
+# Shrimpy Bot - Gotcha System
 
 > A little discord bot to pimp your sever with a dinosaur trading system
 ---
